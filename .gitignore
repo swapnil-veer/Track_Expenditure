@@ -139,4 +139,9 @@ GitHub.sublime-settings
 
 # Virtual ENV
 *venv
+
+# temp_pdf_storage
 *temp_pdf_storage
+
+# untracking rough.py
+rough.py
